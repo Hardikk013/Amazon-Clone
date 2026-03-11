@@ -28,4 +28,4 @@ This project was created to practice **front-end web development** and improve s
 * Implement **product pages**
 * Add **shopping cart functionality**
 
-Hardik Shah
+Author:- Hardik Shah
